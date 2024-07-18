@@ -1,0 +1,20 @@
+# -*- coding: mbcs -*-
+from part import *
+from material import *
+from section import *
+from assembly import *
+from step import *
+from interaction import *
+from load import *
+from mesh import *
+from optimization import *
+from job import *
+from sketch import *
+from visualization import *
+from connectorBehavior import *
+del mdb.models['2mmRadiusGold']
+del mdb.models['Test10um']
+mdb.models.changeKey(fromName='Model-1', toName='Bulge')
+mdb.models.changeKey(fromName='Bulge', toName='BulgeModel')
+# Save by singhj on 2024_05_20-14.36.57; build 2021.HF6 2021_04_09-07.38.16 168095
+# Save by singhj on 2024_05_20-14.37.02; build 2021.HF6 2021_04_09-07.38.16 168095
