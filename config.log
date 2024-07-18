@@ -1,0 +1,15 @@
+file /scratch/user/singhj/.conda/envs/WAVES_ENV/lib/python3.12/site-packages/waves/scons_extensions.py,line 392:
+	Configure(confdir = .sconf_temp)
+scons: Configure: Checking whether sphinx-build program exists...
+scons: Configure: /sw/eb/sw/Anaconda3/2023.07-2/bin/sphinx-build
+
+
+file /scratch/user/singhj/.conda/envs/WAVES_ENV/lib/python3.12/site-packages/waves/scons_extensions.py,line 392:
+	Configure(confdir = .sconf_temp)
+scons: Configure: Checking whether /sw/hprc/sw/ABAQUS/2021/Commands/abaqus program exists...
+scons: Configure: /sw/hprc/sw/ABAQUS/2021/Commands/abaqus
+
+scons: Configure: Checking whether abaqus program exists...
+scons: Configure: /sw/hprc/sw/ABAQUS/2021/Commands/abaqus
+
+
